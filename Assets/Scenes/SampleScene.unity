@@ -388,7 +388,7 @@ PrefabInstance:
     - target: {fileID: 5420007448365813374, guid: c84bc7f3d0e8a6343b3765d5dc634551, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: -876546973899608171, guid: 0639a74d1144dc64d9e32861959bbb79, type: 3}
+      objectReference: {fileID: 2100000, guid: 177973d3ab2acaf4a850d72029ac2558, type: 2}
     - target: {fileID: 5780159560849256363, guid: c84bc7f3d0e8a6343b3765d5dc634551, type: 3}
       propertyPath: m_Name
       value: Barret_Rust
